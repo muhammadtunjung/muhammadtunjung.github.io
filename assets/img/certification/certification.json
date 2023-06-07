@@ -1,0 +1,19 @@
+[
+    {
+        "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+        "by": "AWS Academy x Kominfo",
+        "image": "./certification/certificatetunjung1.png",
+        "category":"networking",
+        "links": {
+            "credentials": "https://www.credly.com/go/yGEXBEhX"
+        }
+    }, {
+        "name": "Learn Network Admin & IT Support",
+        "by": "Course-Net",
+        "image": "./certification/certificatetunjung2.png",
+        "category":"networking",
+        "links": {
+            "credentials": ""
+        }
+    }
+]
